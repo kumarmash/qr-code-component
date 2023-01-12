@@ -21,7 +21,7 @@ I have used HTML and CSS only to completed this challenge of QR Code Component o
 
 ### Screenshot
 
-![](./solution/qrcode-mobile.png) and
+![](./solution/qrcode-mobile.png)
 ![](./solution/qrcode-desktop.png)
 
 
